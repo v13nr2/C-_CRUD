@@ -1,0 +1,10 @@
+D:\DOTNET\HUFT\msAccess\msAccess\obj\Debug\msAccess.Form1.resources
+D:\DOTNET\HUFT\msAccess\msAccess\obj\Debug\msAccess.Properties.Resources.resources
+D:\DOTNET\HUFT\msAccess\msAccess\obj\Debug\msAccess.csproj.GenerateResource.cache
+D:\DOTNET\HUFT\msAccess\msAccess\obj\Debug\msAccess.csproj.CoreCompileInputs.cache
+D:\DOTNET\HUFT\msAccess\msAccess\obj\Debug\msAccess.csprojAssemblyReference.cache
+D:\DOTNET\HUFT\msAccess\msAccess\bin\Debug\msAccess.exe.config
+D:\DOTNET\HUFT\msAccess\msAccess\bin\Debug\msAccess.exe
+D:\DOTNET\HUFT\msAccess\msAccess\bin\Debug\msAccess.pdb
+D:\DOTNET\HUFT\msAccess\msAccess\obj\Debug\msAccess.exe
+D:\DOTNET\HUFT\msAccess\msAccess\obj\Debug\msAccess.pdb
